@@ -34,3 +34,7 @@ Las reglas de Piedra, Papel, Tijeras, Lagarto, Spock son las siguientes:
 🦎 Lagarto gana a 📄 Papel y 🖖 Spock
 
 🖖 Spock gana a 🪨 Piedra y ✂️ Tijeras
+
+
+![image](https://github.com/user-attachments/assets/1a39a7ca-ff0b-4bc5-8e52-1253d981c7b6)
+
